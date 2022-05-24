@@ -8,7 +8,7 @@
     "require-dev": {
         "php": ">=5.5.0"
     },
-    "license": "dev",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yiyan\\TestCom\\": "src/"
