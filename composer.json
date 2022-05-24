@@ -1,0 +1,24 @@
+{
+    "name": "yiyan/test_com",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": ">= 5.5.0"
+    },
+    "require-dev": {
+        "php": ">=5.5.0"
+    },
+    "license": "dev",
+    "autoload": {
+        "psr-4": {
+            "Yiyan\\TestCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yiyan yy",
+            "email": "yiyan@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
